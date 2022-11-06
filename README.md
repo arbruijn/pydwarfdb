@@ -5,6 +5,8 @@ Library for working with Dwarf debugging information in python.
 
 Based on https://github.com/kittel/libdwarfparser by Thomas Kittel.
 
+Sparse documentation: https://arbruijn.github.io/pydwarfdb-docs/
+
 Example:
 ```py
 sym = pydwarfdb.SymbolManager()
